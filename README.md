@@ -1,5 +1,5 @@
 ## Brief
-This addon is a spin-off [console_writer](https://github.com/Walid-Shouman/console_writer).
+This addon is a spin-off [console_scripts](https://github.com/Walid-Shouman/console_scripts).
 
 ## Motivation
 This module has a different way of splitting the ```__init__.py``` file into ```__init__.py```, ```__register__.py``` and ```__reload__.py```  .
